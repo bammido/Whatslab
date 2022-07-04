@@ -1,8 +1,7 @@
-# pronjeto Whatslab:
-
-Olá bom dia/tarde/noite, 
-
+# Whatslab:
 esse é um projeto de um app de mensagens instantâneas. 
+
+[link](https://sloppy-map.surge.sh/) 
 
 ![image](https://user-images.githubusercontent.com/65303066/167309083-a1071eb4-6ed4-426a-9bac-297a9f028939.png)
 
@@ -15,8 +14,4 @@ esse é um projeto de um app de mensagens instantâneas.
 
 ## Tecnologias:
 
-*React, styled-components (lib), surge
-
-## Link:
-
-http://sloppy-map.surge.sh/
+*React, styled-components (lib)

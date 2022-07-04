@@ -7,11 +7,11 @@ esse é um projeto de um app de mensagens instantâneas.
 
 ## Funcionalidades:
 
-*Enviar mensagens escolhendo a pessoa que enviará a mensagem (input 'nome') e a mensagem em si
-*Se a pessoa (input 'nome') for 'eu' a mesagem aparecerá do lado direito, caso contrário aparecerá do lado esquerdo
-*Cada mensagem tem o seu horário de envio na parte inferior em azul
-*As mensagens não salvam, quando a página for recarregada o app voltará ao padrão de inicialização
+* Enviar mensagens escolhendo a pessoa que enviará a mensagem (input 'nome') e a mensagem em si
+* Se a pessoa (input 'nome') for 'eu' a mesagem aparecerá do lado direito, caso contrário aparecerá do lado esquerdo
+* Cada mensagem tem o seu horário de envio na parte inferior em azul
+* As mensagens não salvam, quando a página for recarregada o app voltará ao padrão de inicialização
 
 ## Tecnologias:
 
-*React, styled-components (lib)
+* React, styled-components (lib)
